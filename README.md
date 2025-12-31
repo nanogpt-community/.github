@@ -1,6 +1,6 @@
 # nanogpt-community
 
-Hub for unoffical community projects based around [nano-gpt.com](https://nano-gpt.com).
+Hub for unofficial community projects based around [nano-gpt.com](https://nano-gpt.com).
 
 ## Projects
 
