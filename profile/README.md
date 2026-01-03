@@ -15,3 +15,6 @@ Hub for unofficial community projects based around [nano-gpt.com](https://nano-g
 ### nanogpt-discord
 
 [nanogpt-discord](https://github.com/nanogpt-community/nanogpt-discord) is a discord bot for [nano-gpt.com](https://nano-gpt.com)
+
+### zsh-nanogpt
+[zsh-nanogpt](https://github.com/nanogpt-community/zsh-nanogpt) is a zsh plugin using the  [nano-gpt.com](https://nano-gpt.com) API
