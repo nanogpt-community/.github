@@ -18,3 +18,6 @@ Hub for unofficial community projects based around [nano-gpt.com](https://nano-g
 
 ### zsh-nanogpt
 [zsh-nanogpt](https://github.com/nanogpt-community/zsh-nanogpt) is a zsh plugin using the  [nano-gpt.com](https://nano-gpt.com) API
+
+### fish-nanogpt
+[fish-nanogpt](https://github.com/nanogpt-community/fish-nanogpt) is a fish plugin using the  [nano-gpt.com](https://nano-gpt.com) API
