@@ -8,6 +8,18 @@ Hub for unofficial community projects based around [nano-gpt.com](https://nano-g
 
 [nanochat](https://github.com/nanogpt-community/nanochat) is a T3.chat clone using the [nano-gpt.com](https://nano-gpt.com) API
 
+### nanochat-desktop
+
+[nanochat-desktop](https://github.com/nanogpt-community/nanochat-desktop) is a native desktop application for nanochat
+
+### nanochat-android
+
+[nanochat-android](https://github.com/jcrabapple/nanochat-android) is a native android application for nanochat
+
+### nanochat-ios
+
+[nanochat-ios](https://github.com/nanogpt-community/nanochat-ios) is a native iOS/iPadOS/MacOS application for nanochat
+
 ### nanocode
 
 [nanocode](https://github.com/nanogpt-community/nanocode) is a opencode fork using the [nano-gpt.com](https://nano-gpt.com) API
